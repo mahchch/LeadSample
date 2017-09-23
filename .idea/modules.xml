@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lead-dedup.iml" filepath="$PROJECT_DIR$/.idea/modules/lead-dedup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lead-dedup_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lead-dedup_main.iml" group="lead-dedup" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lead-dedup_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lead-dedup_test.iml" group="lead-dedup" />
+    </modules>
+  </component>
+</project>
